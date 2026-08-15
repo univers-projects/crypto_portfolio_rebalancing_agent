@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.idea/
+data/chroma/
+data/checkpoints.sqlite*
+data/trajectory.jsonl
+data/portfolio.json
+data/autonomy.json
+.claude/
+CLAUDE.md
+VERIFY.md
